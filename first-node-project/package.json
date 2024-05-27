@@ -1,0 +1,16 @@
+{
+  "name": "firstproject",
+  "version": "0.0.1",
+  "description": "Learning node ",
+  "main": "app.js",
+  "scripts": {
+    "ejecutar": "node app.js"
+  },
+  "keywords": [
+    "first",
+    "project",
+    "nodejs"
+  ],
+  "author": "maximilianosogu",
+  "license": "ISC"
+}
